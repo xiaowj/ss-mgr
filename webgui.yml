@@ -33,10 +33,10 @@ plugins:
                 flow: 200000000000
     email:
         use: true
-        username: 'mmmwhy@hotmail.com'
-        password: 'Lyyc.12345'
-        host: 'smtp-mail.outlook.com'
-        port: 587
+        username: ''
+        password: ''
+        host: ''
+        port: 0
         
     webgui:
         use: true
@@ -47,7 +47,7 @@ plugins:
         gcmAPIKey: 'AAAAGzzdqrE:XXXXXXXXXXXXXX'
     alipay:
         use: true
-        appid: 
+        appid:
         notifyUrl: ''
         merchantPrivateKey: ''
         alipayPublicKey: ''
